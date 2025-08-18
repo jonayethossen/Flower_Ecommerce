@@ -23,7 +23,7 @@ const Login = () => {
   };
 
   return (
-    <div className="w-full max-w-md flex flex-col items-center justify-center space-y-8">
+    <div className="w-full max-w-md  space-y-8">
       <div className="text-center">
         <h2 className="text-3xl font-bold text-gray-900">
           Log in to your account
